@@ -1,5 +1,5 @@
 # Live-Meeting-Summarizer-Application
-Project Development Phases\
+Project Development Phases
 ### Week 1 – Project Setup & Speech-to-Text Evaluation**
 Designed the overall system pipeline: Audio → Text → Speaker Identification → Summary.\
 Studied and compared Speech-to-Text (STT) models such as Whisper and Vosk.\
