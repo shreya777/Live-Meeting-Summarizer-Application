@@ -37,3 +37,16 @@ pyannote.audio, torchaudio, AMI Meeting Corpus dataset
 
 ##Current Progress:
 ### Week 4 - AI-based summarization
+
+Implemented AI-powered summarization for meeting transcripts.\
+Generated structured summaries from speaker-wise meeting transcripts.\
+Designed prompt templates to extract important information such as key points, decisions, and action items.\
+Integrated the summarization module with diarized transcripts for automated meeting insights.\
+
+**Output**\
+Structured meeting summary\
+Prompt templates for summarization\
+Sample summarized meeting outputs\
+
+**Tech Stack**
+LLaMA 3.1 (Groq API), ROUGE evaluation metric\
