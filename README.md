@@ -51,7 +51,7 @@ Structured meeting summary\
 Prompt templates for summarization\
 Sample summarized meeting outputs\
 
-**Tech Stack**
+**Tech Stack**\
 LLaMA 3.1 (Groq API), ROUGE evaluation metric\
 
 ### Week 5 - Backend Integration
@@ -76,12 +76,12 @@ Developed a responsive interface featuring Start/Stop controls and dynamic statu
 Implemented live Speech-to-Text (STT) updates on the UI during active recording sessions.
 Created dedicated viewing components for diarized transcripts and final AI-generated summaries.
 
-**Output**
+**Output**\
 Fully functional Streamlit web application.
 Real-time transcription log and summary viewer.
 Interactive status bar (Recording/Transcribing/Summarizing).
 
-**Tech Stack**
+**Tech Stack**\
 Streamlit, , Python, CSS Custom Styling
 
 ### Week 7
