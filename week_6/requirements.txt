@@ -1,0 +1,11 @@
+streamlit
+numpy>=2.2.2,<3
+torch>=2.0.0
+torchaudio>=2.0.0
+openai-whisper==20250625
+pyannote.audio==4.0.4
+soundfile
+sounddevice
+groq
+python-dotenv
+huggingface_hub
