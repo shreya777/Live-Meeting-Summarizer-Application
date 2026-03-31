@@ -71,14 +71,14 @@ Python (threading, queue, asyncio), Whisper, Pyannote.audio
 
 ### Week 6 - Streamlit UI Development
 
-Designed a real-time interactive frontend for the AI Meeting Summarizer.\
-Developed a responsive interface featuring Start/Stop controls and dynamic status indicators.\
-Implemented live Speech-to-Text (STT) updates on the UI during active recording sessions.\
+Designed a real-time interactive frontend for the AI Meeting Summarizer.
+Developed a responsive interface featuring Start/Stop controls and dynamic status indicators.
+Implemented live Speech-to-Text (STT) updates on the UI during active recording sessions.
 Created dedicated viewing components for diarized transcripts and final AI-generated summaries.
 
 **Output**
-Fully functional Streamlit web application.\
-Real-time transcription log and summary viewer.\
+Fully functional Streamlit web application.
+Real-time transcription log and summary viewer.
 Interactive status bar (Recording/Transcribing/Summarizing).
 
 **Tech Stack**
