@@ -8,7 +8,7 @@ Project Development Phases
 Designed the overall system pipeline: Audio → Text → Speaker Identification → Summary.
 Studied and compared Speech-to-Text (STT) models such as Whisper and Vosk.
 Collected meeting audio samples from the AMI Meeting Corpus and custom recordings.
-Evaluated transcription accuracy using Word Error Rate (WER).
+Evaluated transcription accuracy using Word Error Rate (WER).\
 **Output**\
 System architecture design
 Sample meeting audio dataset
